@@ -1,0 +1,14 @@
+Bob TopManager
+	John Secondton
+	#Peter Placeholder
+		Josef Level
+		Mary Speller
+		Joe Bloggs
+		Peter Hay
+			Phillip Intern
+	Sue Binary
+		James Thirdson
+	Ben LastManager
+		Cassandra Underling
+			Stephen Smith
+	Laura James
