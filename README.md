@@ -4,13 +4,13 @@ The author of this application and his associates had the need to be able to gen
 
 The first attempt was to create and maintain an organisational chart using Microsoft Office. However, it quickly became clear that this approach did not really scale to the size of organisation we wanted to present.
 
-Hence this simple project was created and, after no thought whatsoever, made available on GitHub. As you image it comes with no warranty or restrictions. 
+Hence this simple project was created and, after no thought whatsoever, made available on GitHub. As you can imagine  it comes with no warranty or restrictions. 
 
 _Of course, the actual names of the organisational chart itself is not made public .... the example uses a number of mocked up names_
 
 ## Building the Project
 
-This is a simple single module maven project. Clone the project and build it: 
+This is a simple single module Maven project. Clone the project and build it: 
 
 ```
 mvn clean install
